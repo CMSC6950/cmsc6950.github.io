@@ -7,16 +7,14 @@ published: true
 
 ## Computer Based Research Tools and Applications
   Memorial University of Newfoundland  
-  Intersession 2017
+  Intersession 2018
 
 ## Lectures
-  Wednesdays and Fridays 9am-12pm in room C2039 (First Lecture May 10, 2017)
+  Tuesdays and Thursdays 1pm-4pm in room C2039 (First Lecture May 8, 2018)
 
-## Instructors:
+## Instructor:
 
-* Oliver Stueker
-* Shahrazad Malek
-* Ivan Saika-Voivod
+* James Munroe
 
 ## Course Description:
 
