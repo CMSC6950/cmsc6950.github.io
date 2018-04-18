@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-04-05 14:40:50 -02:30
+date: 2018-04-08 11:40:50 -02:30
 title: "Welcome to CMSC6950"
 published: true
 ---
@@ -31,4 +31,4 @@ published: true
 
 ## Course Outline
 
-Download the [PDF]({{ site.url }}/data/CMSC6950-May_2017-Course_Outline.pdf)
+PREVIOUS YEAR: Download the [PDF]({{ site.url }}/data/CMSC6950-May_2017-Course_Outline.pdf)
