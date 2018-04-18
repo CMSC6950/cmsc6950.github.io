@@ -5,7 +5,7 @@ description: Computer Based Research Tools and Applications
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://CMSC6950.github.io
-gh_url: https://CMSC6950.github.io/blob/gh-pages
+gh_url: https://CMSC6950.github.io
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
