@@ -7,10 +7,8 @@ date: 2018-05-01
 ## Course Material
 
 * 2018-05-08 (Tuesday)
-    * Chapter 1 - The Command Line:             [View notebook]({{ site.gh_url}}/lectures/ch01-the-command-line.ipynb), 
-                                                [Download]({{ site.url }}/lectures/ch01-the-command-line.ipynb)
+    * [Chapter 1 - The Command Line](http://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/lectures/ch01-the-command-line.ipynb)
     * [The Command Line](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch01-the-command-line.ipynb)
-
 
 * 2018-05-10 (Thursday)
     * Chapter 2 - Intro to Python:              [View notebook]({{ site.gh_url}}/lectures/ch02-python.ipynb), 
