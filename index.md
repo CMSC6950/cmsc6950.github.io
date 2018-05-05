@@ -31,4 +31,4 @@ published: true
 
 ## Course Outline
 
-PREVIOUS YEAR: Download the [PDF]({{ site.url }}/data/CMSC6950-May_2017-Course_Outline.pdf)
+[Course Outline]({{ site.baseurl }}{% post_url 2015-05-01-Outline %})
