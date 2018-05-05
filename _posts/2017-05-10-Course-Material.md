@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Course Material"
-published: true
+published: false
 date: 2017-05-11T10:28:29-02:30
 ---
 ## Course Material
