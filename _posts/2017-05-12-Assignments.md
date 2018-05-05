@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Assignments"
-published: true
+published: false
 date: 2017-05-12T10:28:29-02:30
 ---
 ## Assignments
