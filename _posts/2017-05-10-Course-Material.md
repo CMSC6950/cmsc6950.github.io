@@ -7,14 +7,12 @@ date: 2018-05-01
 ## Course Material
 
 * 2018-05-08 (Tuesday)
-    * [Chapter 1 - The Command Line](http://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/lectures/ch01-the-command-line.ipynb)
+    * [Chapter 1 - The Command Line](http://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch01-the-command-line.ipynb)
     * [The Command Line](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch01-the-command-line.ipynb)
 
 * 2018-05-10 (Thursday)
-    * Chapter 2 - Intro to Python:              [View notebook]({{ site.gh_url}}/lectures/ch02-python.ipynb), 
-                                                [Download]({{ site.url }}/lectures/ch02-python.ipynb)
-    * Chapter 3 - Containers in Python:         [View notebook]({{ site.gh_url}}/lectures/ch03-containers.ipynb), 
-                                                [Download]({{ site.url }}/lectures/ch03-containers.ipynb)
+    * [Chapter 2 - Intro to Python](http://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch02-python.ipynb):
+    * [Chapter 3 - Containers in Python](http://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch03-containers.ipynb)
 
 * 2018-05-15 (Tuesday)
     * Chapter 4 - Flow-control in Python:       [View notebook]({{ site.gh_url}}/lectures/ch04-flow-control.ipynb), 
