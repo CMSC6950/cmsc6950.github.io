@@ -31,4 +31,4 @@ published: true
 
 ## Course Outline
 
-[Course Outline]({{ site.baseurl }}{% post_url 2015-05-01-Outline %})
+[Course Outline]({{ site.baseurl }}{% post_url 2018-05-01-Outline %})
