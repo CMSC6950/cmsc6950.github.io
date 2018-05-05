@@ -1,22 +1,24 @@
 ---
 layout: post
 title: "Course Material"
-published: false
-date: 2017-05-11T10:28:29-02:30
+published: true
+date: 2018-05-01
 ---
 ## Course Material
 
-* Wednesday, May 10th (Shahrazad Malek)
+* 2018-05-08 (Tuesday)
     * Chapter 1 - The Command Line:             [View notebook]({{ site.gh_url}}/lectures/ch01-the-command-line.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch01-the-command-line.ipynb)
+    * [The Command Line](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch01-the-command-line.ipynb)
 
-* Friday, May 12th (Shahrazad Malek)
+
+* 2018-05-10 (Thursday)
     * Chapter 2 - Intro to Python:              [View notebook]({{ site.gh_url}}/lectures/ch02-python.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch02-python.ipynb)
     * Chapter 3 - Containers in Python:         [View notebook]({{ site.gh_url}}/lectures/ch03-containers.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch03-containers.ipynb)
 
-* Wednesday, May 17th (Shahrazad Malek)
+* 2018-05-15 (Tuesday)
     * Chapter 4 - Flow-control in Python:       [View notebook]({{ site.gh_url}}/lectures/ch04-flow-control.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch04-flow-control.ipynb)
     * Chapter 8 - Regular Expressions:          [View notebook]({{ site.gh_url}}/lectures/ch08-regex.ipynb), 
@@ -25,7 +27,7 @@ date: 2017-05-11T10:28:29-02:30
                                                 [Download]({{ site.url }}/lectures/regexps.ipynb)
         * [Download Data.zip for regexp]({{ site.url }}/lectures/DATA.zip) (zip file)
 
-* Friday, May 19th (Dr. Oliver Stueker)
+* 2018-05-17 (Thursday)
     * Jupyter Notebooks - Markdown Cells:       [View notebook]({{ site.gh_url}}/lectures/Working_With_Markdown_Cells.ipynb), 
                                                 [Download]({{ site.url }}/lectures/Working_With_Markdown_Cells.ipynb)
     * Python Recap:                             [View notebook]({{ site.gh_url}}/lectures/Python_Review.ipynb), 
@@ -35,14 +37,14 @@ date: 2017-05-11T10:28:29-02:30
     * Chapter 6 - Classes and Objects:          [View notebook]({{ site.gh_url}}/lectures/ch06-classes-objects.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch06-classes-objects.ipynb)
 
-* Wednesday, May 24th (Dr. Oliver Stueker)
+* 2018-05-22 (Tuesday)
     * Data for chapters 7 and 10:               [Download numpy_data.zip]({{ site.url }}/lectures/numpy_data.zip)
     * Chapter 7 - Analysis and Visualization:   [View notebook]({{ site.gh_url}}/lectures/ch07-analysis-and-viz.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch07-analysis-and-viz.ipynb)
     * Chapter 9 - NumPy: Thinking in Arrays:    [View notebook]({{ site.gh_url}}/lectures/ch09-numpy.ipynb), 
                                                 [Download]({{ site.url }}/lectures/ch09-numpy.ipynb)
 
-* Friday, May 26th (Dr. Oliver Stueker)
+* 2018-05-24 (Thursday)
     * Visualization examples using Matplotlib:  [View notebook]({{ site.gh_url}}/lectures/matplotlib_examples.ipynb), 
                                                 [Download]({{ site.url }}/lectures/matplotlib_examples.ipynb)
     * Chapter 10 - Storing Data: Files and HDF5: [View notebook]({{ site.gh_url}}/lectures/ch10-storing-data.ipynb), 
@@ -55,7 +57,7 @@ date: 2017-05-11T10:28:29-02:30
                                                 [Download]({{ site.url }}/lectures/ch19-documentation.ipynb)
     * Data for Sphinx Documentation: [Download particles.zip]({{ site.url }}/data/particles.zip)
 
-* Wednesday, May 31st (Dr. Oliver Stueker)
+* 2018-05-29 (Tuesday)
     * **Download data**: [2017-05-31.zip]({{ site.url }}/data/2017-05-31.zip) and unpack it inside your Desktop/CMSC6950 directory.
       This will create directories `workflow`, `debugging` and `testing-files`.
     * Chapter 14 - Building Pipelines and Software: [View notebook]({{ site.gh_url}}/lectures/ch14-building-software.ipynb), 
@@ -67,33 +69,33 @@ date: 2017-05-11T10:28:29-02:30
                                                 [Download]({{ site.url }}/lectures/Testing.ipynb)
         - and [https://katyhuff.github.io/python-testing/](https://katyhuff.github.io/python-testing/)
 
-* Friday, June 2nd (Dr. Oliver Stueker)
+* 2018-05-31 (Thursday)
     * Chapter 15 - Local Version Control:       [View notebook]({{ site.gh_url}}/lectures/ch15-local-version-control.ipynb),
                                                 [Download]({{ site.url }}/lectures/ch15-local-version-control.ipynb)
     * Chapter 16 - Remote Version Control:      [View notebook]({{ site.gh_url}}/lectures/ch16-remote-version-control.ipynb),
                                                 [Download]({{ site.url }}/lectures/ch16-remote-version-control.ipynb)
 
-* Wednesday, June 7th (Prof. Ivan Saika-Voivod)
+* 2018-06-05 (Tuesday)
     *  **Download data**: [DATABASES-20170607.zip]({{ site.url }}/data/DATABASES-20170607.zip) and unpack it inside your Desktop/CMSC6950 directory.
     * Databases:                                [View notebook]({{ site.gh_url}}/lectures/Databases.ipynb),
                                                 [Download]({{ site.url }}/lectures/Databases.ipynb)
 
-* Friday, June 9th (Prof. Ivan Saika-Voivod)
+* 2018-06-07 (Thursday)
     * **Download folder**: [MISC20170609.zip]({{ site.url }}/data/MISC20170609.zip) and unpack it inside your Desktop/CMSC6950 directory.
     * Animations and other stuff                [View notebook]({{ site.gh_url}}/lectures/misc.ipynb),
                                                 [Download]({{ site.url }}/lectures/misc.ipynb)
 
-* Wednesday, June 14th (Dr. Oliver Stueker)
+* 2018-06-12 (Tuesday)
     * Introduction to ACENET and High Performance Computing [View/Download PDF slides]({{ site.url }}/lectures/Introduction_to_ACENET_and_Grid_Engine_2017.pdf)
     * Introduction to Parallel Programming: [View/Download PDF slides]({{ site.url }}/lectures/introduction_to_parallel_computing.pdf)
     * Code: Calculating the Energy in a Lennard-Jones system: <https://github.com/ostueker/CMSC6950>
     * Chapter 17b - Profiling and Code optimization [View notebook]({{ site.gh_url}}/lectures/ch17b-profiling.ipynb),
                                                     [Download]({{ site.url }}/lectures/ch17b-profiling.ipynb)
-* Friday, June 16th (Prof. Ivan Saika-Voivod)
+* 2018-06-14 (Thursday)
     * TBA
 
 
-- [The Command Line](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch01-the-command-line.ipynb)
+
 - [Python: Blast Off](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch02-python.ipynb)
 - [Python: Containers](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch03-containers.ipynb)
 - [Python: Flow Control](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch04-flow-control.ipynb)
