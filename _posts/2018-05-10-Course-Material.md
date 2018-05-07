@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Course Material
+title: Course Schedule
 published: true
 date: 2018-05-01T00:00:00.000Z
 ---
-## Course Material
 
 * 2018-05-08 (Tuesday)
     * [Chapter 1 - The Command Line](http://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch01-the-command-line.ipynb)
