@@ -18,7 +18,7 @@ date: 2018-05-08
 * Due Tuesday, 2018-06-05
     * Assignment 4
 
-{%
+<!---
 * Due Tuesday, 2018-05-22
     * [Assignment 2](assignments/Assignment2.ipynb) (ipynb)
 
@@ -32,4 +32,4 @@ date: 2018-05-08
 
 * Due Tuesday, 2018-06-05
     * [Assignment 4]:(assignments/assignment4.pdf),
-%}
+-->
