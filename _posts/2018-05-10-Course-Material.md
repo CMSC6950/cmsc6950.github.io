@@ -8,7 +8,7 @@ date: {}
 
 * 2018-05-08 (Tuesday)
     * [Chapter 1 - The Command Line](http://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch01-the-command-line.ipynb)
-    * [The Command Line](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch01-the-command-line.ipynb)
+
 
 * 2018-05-10 (Thursday)
     * [Chapter 2 - Intro to Python](http://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch02-python.ipynb)
@@ -79,15 +79,15 @@ date: {}
 * 2018-06-14 (Thursday)
     - [Licenses](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch22-licenses.ipynb)
     - [Musings](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch23-musings.ipynb)
+    - [Publishing](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch20-publishing.ipynb)
+	- [Collaboration](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch21-collaboration.ipynb)
+    - [Debugging](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch17-debugging.ipynb)
+	- [Testing](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch18-testing.ipynb)
+	- [Documentation](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch19-documentation.ipynb)
+	- [NumPy](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch09-numpy.ipynb)
+	- [Storing Data](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch10-storing-data.ipynb)
+	- [Data Structures](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch11-data-structures.ipynb)
+	- [Deployment](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch13-deployment.ipynb)
+	- [Building Software](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch14-building-software.ipynb)
 
 
-- [NumPy](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch09-numpy.ipynb)
-- [Storing Data](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch10-storing-data.ipynb)
-- [Data Structures](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch11-data-structures.ipynb)
-- [Deployment](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch13-deployment.ipynb)
-- [Building Software](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch14-building-software.ipynb)
-- [Debugging](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch17-debugging.ipynb)
-- [Testing](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch18-testing.ipynb)
-- [Documentation](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch19-documentation.ipynb)
-- [Publishing](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch20-publishing.ipynb)
-- [Collaboration](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch21-collaboration.ipynb)
