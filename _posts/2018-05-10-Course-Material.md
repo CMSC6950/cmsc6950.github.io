@@ -2,7 +2,7 @@
 layout: post
 title: Course Material
 published: true
-date: {}
+date: 2018-05-01T00:00:00.000Z
 ---
 ## Course Material
 
@@ -89,5 +89,3 @@ date: {}
 	- [Data Structures](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch11-data-structures.ipynb)
 	- [Deployment](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch13-deployment.ipynb)
 	- [Building Software](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch14-building-software.ipynb)
-
-
