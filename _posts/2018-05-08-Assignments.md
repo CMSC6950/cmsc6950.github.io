@@ -7,7 +7,7 @@ date: 2018-05-08
 ## Assignments
 
 * Due Tuesday, 2018-05-15
-    * [Assignment 1](assignments/assignment1.pdf) (pdf)
+    * [Assignment 1]({{site.gh_url}}/assignments/assignment1.pdf) (pdf)
 
 * Due Tuesday, 2018-05-22
     * Assignment 2
