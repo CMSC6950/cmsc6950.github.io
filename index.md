@@ -32,3 +32,5 @@ published: true
 ## Course Outline
 
 [Course Outline]({{ site.baseurl }}{% post_url 2018-05-01-Outline %})
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cmsc6950/cmsc6950.github.io/master?filepath=lectures)
