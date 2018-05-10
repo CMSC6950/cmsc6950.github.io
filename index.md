@@ -16,6 +16,10 @@ published: true
 
 * James Munroe
 
+## Teaching Assistant:
+
+* Evan Kielley
+
 ## Course Description:
 
   Using computers in research computing requires a diverse set of skills and tools for the
