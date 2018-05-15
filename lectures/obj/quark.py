@@ -1,4 +1,4 @@
-import randphys as rp 
+from . import randphys as rp
 
 class Quark(object):
 
