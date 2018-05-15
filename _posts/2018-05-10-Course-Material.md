@@ -14,9 +14,9 @@ date: 2018-05-01T00:00:00.000Z
     * [Chapter 4 - Flow-control in Python](http://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch04-flow-control.ipynb)
 
 * 2018-05-15 (Tuesday)
-    * [Jupyter Notebooks - Markdown Cells](nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/Working_With_Markdown_Cells.ipynb)
-    * [Python Recap](http://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/{{ nbviewer}}/lectures/Python_Review.ipynb)
-    * [Chapter 5 - Functions](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch05-functions.ipynb)
+    * [Python Recap](http://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/Python_Review.ipynb)
+    * [Jupyter Notebooks - Markdown Cells](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/Working_With_Markdown_Cells.ipynb)
+     * [Chapter 5 - Functions](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch05-functions.ipynb)
     * [Chapter 6 - Classes and Objects](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch06-classes-objects.ipynb)
 
 * 2018-05-17 (Thursday)
