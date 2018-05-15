@@ -1,6 +1,6 @@
 import numpy
 
-from particle import Particle
+from .particle import Particle
 
 class ElementaryParticle(Particle):
 

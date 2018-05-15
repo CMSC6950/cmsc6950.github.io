@@ -8,28 +8,23 @@ date: 2018-05-01T00:00:00.000Z
 * 2018-05-08 (Tuesday)
     * [Chapter 1 - The Command Line](http://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch01-the-command-line.ipynb)
 
-
 * 2018-05-10 (Thursday)
     * [Chapter 2 - Intro to Python](http://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch02-python.ipynb)
     * [Chapter 3 - Containers in Python](http://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch03-containers.ipynb)
-    - [Python: Blast Off](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch02-python.ipynb)
-    - [Python: Containers](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch03-containers.ipynb)
+    * [Chapter 4 - Flow-control in Python](http://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch04-flow-control.ipynb)
 
 * 2018-05-15 (Tuesday)
-    * [[Chapter 4 - Flow-control in Python](http://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch04-flow-control.ipynb)
-    - [Python: Flow Control](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch04-flow-control.ipynb)
-    - [Python: Functions](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch05-functions.ipynb)
-    - [Python: Classes and Objects](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch06-classes-objects.ipynb)
+    * [Python Recap](http://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/Python_Review.ipynb)
+    * [Jupyter Notebooks - Markdown Cells](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/Working_With_Markdown_Cells.ipynb)
+     * [Chapter 5 - Functions](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch05-functions.ipynb)
+    * [Chapter 6 - Classes and Objects](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch06-classes-objects.ipynb)
+
+* 2018-05-17 (Thursday)
     * [Chapter 8 - Regular Expressions](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch08-regex.ipynb)
     * [Alternative Notebook Regular Expressions](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/regexps.ipynb)
     - [Regular Expressions](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch07-regex.ipynb)
     * Download Data.zip for regexp [zip file]({{site.url}}/lectures/DATA.zip)
 
-* 2018-05-17 (Thursday)
-    * [Jupyter Notebooks - Markdown Cells](nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/Working_With_Markdown_Cells.ipynb)
-    * [Python Recap](http://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/{{ nbviewer}}/lectures/Python_Review.ipynb)
-    * [Chapter 5 - Functions](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch05-functions.ipynb)
-    * [Chapter 6 - Classes and Objects](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch06-classes-objects.ipynb)
 
 * 2018-05-22 (Tuesday)
     * [Data for chapters 7 and 10]({{site.url}}/lectures/numpy_data.zip)
