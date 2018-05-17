@@ -20,20 +20,18 @@ date: 2018-05-01T00:00:00.000Z
     * [Chapter 6 - Classes and Objects](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch06-classes-objects.ipynb)
 
 * 2018-05-17 (Thursday)
+   * [NumPy: Creating and manipulating numerical data](https://www.scipy-lectures.org/intro/numpy/index.html)
+   * [Matplotlib: plotting](https://www.scipy-lectures.org/intro/matplotlib/index.html)
+   * Also see Chapter 7 and 9 of [Effective Computation in Physics](http://physics.codes/)
+   
+* 2018-05-22 (Tuesday)
+   * [Scipy: high-level scientific computing](https://www.scipy-lectures.org/intro/scipy.html)
+   
+* 2018-05-24 (Thursday)
     * [Chapter 8 - Regular Expressions](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch08-regex.ipynb)
     * [Alternative Notebook Regular Expressions](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/regexps.ipynb)
     - [Regular Expressions](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch07-regex.ipynb)
     * Download Data.zip for regexp [zip file]({{site.url}}/lectures/DATA.zip)
-
-
-* 2018-05-22 (Tuesday)
-    * [Data for chapters 7 and 10]({{site.url}}/lectures/numpy_data.zip)
-    - [Analysis and Visualization](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch08-analysis-and-viz.ipynb)
-    * [Chapter 7 - Analysis and Visualization](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch07-analysis-and-viz.ipynb)
-    * [Chapter 9 - NumPy: Thinking in Arrays](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch09-numpy.ipynb)
-
-* 2018-05-24 (Thursday)
-    * [Visualization examples using Matplotlib](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/matplotlib_examples.ipynb)
     * [Chapter 10 - Storing Data: Files and HDF5](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch10-storing-data.ipynb)
     * [Chapter 11 - Data Structures](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch11-data-structures.ipynb)
     * [Working with Pandas DataFrames](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/working_with_Pandas_DataFrames.ipynb)
