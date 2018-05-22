@@ -26,7 +26,7 @@ date: 2018-05-01T00:00:00.000Z
 * 2018-05-22 (Tuesday)
    * [Matplotlib: plotting](https://www.scipy-lectures.org/intro/matplotlib/index.html)
    * [Scipy: high-level scientific computing](https://www.scipy-lectures.org/intro/scipy.html)
-   * see Chapter 10 of [Effective Computation in Physics](http://physics.codes/)
+   * see Chapter 11 of [Effective Computation in Physics](http://physics.codes/)
    
 * 2018-05-24 (Thursday)
     * [Chapter 7 - Regular Expressions](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch08-regex.ipynb)
