@@ -21,14 +21,15 @@ date: 2018-05-01T00:00:00.000Z
 
 * 2018-05-17 (Thursday)
    * [NumPy: Creating and manipulating numerical data](https://www.scipy-lectures.org/intro/numpy/index.html)
-   * [Matplotlib: plotting](https://www.scipy-lectures.org/intro/matplotlib/index.html)
-   * Also see Chapter 7 and 9 of [Effective Computation in Physics](http://physics.codes/)
+   * see Chapter 8 of [Effective Computation in Physics](http://physics.codes/)
    
 * 2018-05-22 (Tuesday)
+   * [Matplotlib: plotting](https://www.scipy-lectures.org/intro/matplotlib/index.html)
    * [Scipy: high-level scientific computing](https://www.scipy-lectures.org/intro/scipy.html)
+   * see Chapter 10 of [Effective Computation in Physics](http://physics.codes/)
    
 * 2018-05-24 (Thursday)
-    * [Chapter 8 - Regular Expressions](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch08-regex.ipynb)
+    * [Chapter 7 - Regular Expressions](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch08-regex.ipynb)
     * [Alternative Notebook Regular Expressions](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/regexps.ipynb)
     - [Regular Expressions](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch07-regex.ipynb)
     * Download Data.zip for regexp [zip file]({{site.url}}/lectures/DATA.zip)
