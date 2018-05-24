@@ -21,19 +21,22 @@ date: 2018-05-01T00:00:00.000Z
 
 * 2018-05-17 (Thursday)
    * [NumPy: Creating and manipulating numerical data](https://www.scipy-lectures.org/intro/numpy/index.html)
-   * see Chapter 8 of [Effective Computation in Physics](http://physics.codes/)
+   * see Chapter 7 of [Effective Computation in Physics](http://physics.codes/)
    
 * 2018-05-22 (Tuesday)
    * [Matplotlib: plotting](https://www.scipy-lectures.org/intro/matplotlib/index.html)
    * [Scipy: high-level scientific computing](https://www.scipy-lectures.org/intro/scipy.html)
-   * see Chapter 11 of [Effective Computation in Physics](http://physics.codes/)
+   * see Chapter 9 of [Effective Computation in Physics](http://physics.codes/)
    
 * 2018-05-24 (Thursday)
     * [Chapter 7 - Regular Expressions](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch08-regex.ipynb)
-    * [Alternative Notebook Regular Expressions](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/regexps.ipynb)
-    - [Regular Expressions](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch07-regex.ipynb)
     * Download Data.zip for regexp [zip file]({{site.url}}/lectures/DATA.zip)
     * [Chapter 10 - Storing Data: Files and HDF5](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch10-storing-data.ipynb)
+
+
+* Future
+    * [Alternative Notebook Regular Expressions](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/regexps.ipynb)
+    - [Regular Expressions](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch07-regex.ipynb)
     * [Chapter 11 - Data Structures](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch11-data-structures.ipynb)
     * [Working with Pandas DataFrames](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/working_with_Pandas_DataFrames.ipynb)
     * [Chapter 19 - Documentation](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch19-documentation.ipynb)
