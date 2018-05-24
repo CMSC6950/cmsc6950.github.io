@@ -13,8 +13,8 @@ date: 2018-05-08
     * [Assignment 2](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/assignments/assignment2.ipynb) (ipynb)
 
 * Due Tuesday, 2018-05-29
-    * Assignment 3
- 
+    * [Assignment 3](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/assignments/assignment3.ipynb) (ipynb)
+
 * Due Tuesday, 2018-06-05
     * Assignment 4
 
@@ -22,13 +22,6 @@ date: 2018-05-08
 * Due Tuesday, 2018-05-22
     * [Assignment 2](assignments/Assignment2.ipynb) (ipynb)
 
-* Due Tuesday, 2018-05-29
-    * [Assignment 3]:({{ site.gh_url }}/assignments/Assignment3.ipynb),
-                                                [Download]({{ site.url }}/assignments/Assignment3.ipynb)
-        * inflammation_data.csv: [View]({{ site.gh_url }}/assignments/inflammation_data.csv),
-                                                [Download]({{ site.url }}/assignments/inflammation_data.csv)
-        * TwoSubFigures.png: [Veiw]({{ site.gh_url }}/assignments/TwoSubFigures.png),
-                                                [Download]({{ site.url }}/assignments/TwoSubFigures.png)
 
 * Due Tuesday, 2018-06-05
     * [Assignment 4]:(assignments/assignment4.pdf),
