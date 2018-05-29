@@ -36,10 +36,8 @@ date: 2018-05-01T00:00:00.000Z
 * 2018-05-29 (Tuesday)
     * [Chapter 14 - Building Pipelines and Software](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch14-building-software.ipynb)
         - See also [GitHub repo](https://github.com/ostueker/workflow)
-    * [Building Software](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch14-building-software.ipynb)
     * [Chapter 15 - Local Version Control](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch15-local-version-control.ipynb)
     * [Chapter 16 - Remote Version Control](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch16-remote-version-control.ipynb)
-    * [Chapter 21 - Collaboration](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch21-collaboration.ipynb)
 
 * 2018-05-31 (Thursday)
     * **Download data**: [2017-05-31.zip]({{ site.url }}/data/2017-05-31.zip) and unpack it inside your Desktop/CMSC6950 directory.
