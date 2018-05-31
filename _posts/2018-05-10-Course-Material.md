@@ -40,6 +40,9 @@ date: 2018-05-01T00:00:00.000Z
     * [Chapter 16 - Remote Version Control](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch16-remote-version-control.ipynb)
 
 * 2018-05-31 (Thursday)
+    * Project
+    
+* 2018-06-05 (Tuesday)
     * **Download data**: [2017-05-31.zip]({{ site.url }}/data/2017-05-31.zip) and unpack it inside your Desktop/CMSC6950 directory.
       This will create directories `workflow`, `debugging` and `testing-files`.
     * [Chapter 17a - Debugging](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch17-debugging.ipynb)
@@ -49,7 +52,7 @@ date: 2018-05-01T00:00:00.000Z
     * [Debugging](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch17-debugging.ipynb)
     * [Testing](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch18-testing.ipynb)
 
-* 2018-06-05 (Tuesday)
+* 2018-06-07 (Thursday)
     * [Chapter 17b - Profiling and Code optimization](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch17b-profiling.ipynb)
     * [Chapter 19 - Documentation](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch19-documentation.ipynb)
     * [Data for Sphinx Documentation (download)]({{ site.url }}/data/particles.zip)
@@ -57,13 +60,14 @@ date: 2018-05-01T00:00:00.000Z
     * [Chapter 20 - Publishing](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch20-publishing.ipynb)
     * [Chapter 22 - Licenses](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch22-licenses.ipynb)
 
-* 2018-06-07 (Thursday)
-    * **Download folder**: [MISC20170609.zip]({{site.url}}/data/MISC20170609.zip) and unpack it inside your Desktop/CMSC6950 directory.
+
+<!--    * **Download folder**: [MISC20170609.zip]({{site.url}}/data/MISC20170609.zip) and unpack it inside your Desktop/CMSC6950 directory.
     * [Animations and other stuff](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/misc.ipynb)
     * [Chapter 11 - Data Structures](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch11-data-structures.ipynb)
     * [Working with Pandas DataFrames](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/working_with_Pandas_DataFrames.ipynb)
     *  **Download data**: [DATABASES-20170607.zip]({{ site.url }}/data/DATABASES-20170607.zip) and unpack it inside your Desktop/CMSC6950 directory.
     * [Databases](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/Databases.ipynb)
+-->
 
 * 2018-06-12 (Tuesday)
     - [Chapter 12 - Parallelism](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch12-parallelism.ipynb)
