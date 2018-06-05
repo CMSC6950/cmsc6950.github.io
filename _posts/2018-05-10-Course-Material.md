@@ -49,8 +49,6 @@ date: 2018-05-01T00:00:00.000Z
     * [Chapter 18 - Testing](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/Testing.ipynb)
         - and [https://katyhuff.github.io/python-testing/](https://katyhuff.github.io/python-testing/)
     * [Chapter 13 - Deployment](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch13-deployment.ipynb)
-    * [Debugging](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch17-debugging.ipynb)
-    * [Testing](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch18-testing.ipynb)
 
 * 2018-06-07 (Thursday)
     * [Chapter 17b - Profiling and Code optimization](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch17b-profiling.ipynb)
