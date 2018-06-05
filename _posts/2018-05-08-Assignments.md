@@ -15,14 +15,6 @@ date: 2018-05-08
 * Due Tuesday, 2018-05-29
     * [Assignment 3](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/assignments/assignment3.ipynb) (ipynb)
 
-* Due Tuesday, 2018-06-05
-    * Assignment 4
+* Due Tuesday, 2018-06-12
+    * [Assignment 4]({{site.gh_url}}/assignments/assignment4.pdf) (pdf)
 
-<!---
-* Due Tuesday, 2018-05-22
-    * [Assignment 2](assignments/Assignment2.ipynb) (ipynb)
-
-
-* Due Tuesday, 2018-06-05
-    * [Assignment 4]:(assignments/assignment4.pdf),
--->
