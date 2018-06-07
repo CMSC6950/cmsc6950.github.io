@@ -50,10 +50,10 @@ date: 2018-05-01T00:00:00.000Z
         - and [https://katyhuff.github.io/python-testing/](https://katyhuff.github.io/python-testing/)
 
 * 2018-06-07 (Thursday)
-    * [Chapter 17b - Profiling and Code optimization](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch17b-profiling.ipynb)
-    * [Chapter 19 - Documentation](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch19-documentation.ipynb)
-    * [Chapter 13 - Deployment](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch13-deployment.ipynb)
+   -  [Chapter 17b - Profiling](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch17b-profiling.ipynb)
+   * [Chapter 19 - Documentation](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch19-documentation.ipynb)
     * [Chapter 20 - Publishing](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch20-publishing.ipynb)
+    * [Chapter 21 - Collaboration](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch21-colloboration.ipynb)
     * [Chapter 22 - Licenses](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch22-licenses.ipynb)
 
 
@@ -69,11 +69,13 @@ date: 2018-05-01T00:00:00.000Z
 -->
 
 * 2018-06-12 (Tuesday)
+    -  [Chapter 17b - Profiling and Code optimization](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch17b-profiling.ipynb)
     - [Chapter 12 - Parallelism](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch12-parallelism.ipynb)
     - Introduction to ACENET and High Performance Computing [View/Download PDF slides]({{ site.url }}/lectures/Introduction_to_ACENET_and_Grid_Engine_2017.pdf)
     - Introduction to Parallel Programming: [View/Download PDF slides]({{site.url}}/lectures/introduction_to_parallel_computing.pdf)
     - Code: Calculating the Energy in a Lennard-Jones system: <https://github.com/ostueker/CMSC6950>
 
 * 2018-06-14 (Thursday)
+    * [Chapter 13 - Deployment](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch13-deployment.ipynb)
     * Project Presentations
     
