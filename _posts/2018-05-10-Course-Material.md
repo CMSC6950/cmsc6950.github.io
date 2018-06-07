@@ -52,14 +52,15 @@ date: 2018-05-01T00:00:00.000Z
 * 2018-06-07 (Thursday)
     * [Chapter 17b - Profiling and Code optimization](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch17b-profiling.ipynb)
     * [Chapter 19 - Documentation](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch19-documentation.ipynb)
-    * [Data for Sphinx Documentation (download)]({{ site.url }}/data/particles.zip)
-    * [Documentation](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch19-documentation.ipynb)
     * [Chapter 13 - Deployment](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch13-deployment.ipynb)
     * [Chapter 20 - Publishing](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch20-publishing.ipynb)
     * [Chapter 22 - Licenses](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch22-licenses.ipynb)
 
 
-<!--    * **Download folder**: [MISC20170609.zip]({{site.url}}/data/MISC20170609.zip) and unpack it inside your Desktop/CMSC6950 directory.
+<!--
+    * [Data for Sphinx Documentation (download)]({{ site.url }}/data/particles.zip)
+    * [Documentation](http://nbviewer.ipython.org/github/physics-codes/seminar/blob/master/ch19-documentation.ipynb)
+* **Download folder**: [MISC20170609.zip]({{site.url}}/data/MISC20170609.zip) and unpack it inside your Desktop/CMSC6950 directory.
     * [Animations and other stuff](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/misc.ipynb)
     * [Chapter 11 - Data Structures](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/ch11-data-structures.ipynb)
     * [Working with Pandas DataFrames](https://nbviewer.ipython.org/github/CMSC6950/CMSC6950.github.io/blob/master/lectures/working_with_Pandas_DataFrames.ipynb)
