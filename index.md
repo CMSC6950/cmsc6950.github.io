@@ -1,16 +1,16 @@
 ---
 layout: post
-date: 2018-04-08 11:40:50 -02:30
+date: 2020-05-22 11:40:50 -02:30
 title: "Welcome to CMSC6950"
 published: true
 ---
 
 ## Computer Based Research Tools and Applications
   Memorial University of Newfoundland  
-  Intersession 2018
+  Summer 2020
 
 ## Lectures
-  Tuesdays and Thursdays 1pm-4pm in room C2039 (First Lecture May 8, 2018)
+  Tuesdays and Thursdays 10:00 am --1:00 pm (Remote Teaching) (First Lecture June 29, 2020)
 
 ## Instructor:
 
@@ -18,7 +18,7 @@ published: true
 
 ## Teaching Assistant:
 
-* Evan Kielley
+* TBD
 
 ## Course Description:
 
@@ -34,6 +34,8 @@ published: true
   applications.
 
 ## Course Outline
+
+** Being revised for 2020**
 
 [Course Outline]({{ site.baseurl }}{% post_url 2018-05-01-Outline %})
 
