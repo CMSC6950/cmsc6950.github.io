@@ -10,7 +10,7 @@ published: true
   Summer 2020
 
 ## Lectures
-  Tuesdays and Thursdays 10:00 am --1:00 pm (Remote Teaching) (First Lecture June 29, 2020)
+  Tuesdays and Thursdays 10:00 am --1:00 pm (Remote Teaching) (First Lecture June 30, 2020)
 
 ## Instructor:
 
