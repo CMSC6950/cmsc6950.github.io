@@ -5,15 +5,9 @@ title: "Welcome to CMSC6950"
 published: true
 ---
 
-## Computer Based Research Tools and Applications
-  Memorial University of Newfoundland  
-  Summer 2021
 
-# Course Outline
-
-
+# CMSC6950  Computer Based Research Tools and Applications
 #### Memorial University of Newfoundland
-#### CMSC6950  Computer Based Research Tools and Applications
 #### Spring 2021
 
 ### Instructor:
