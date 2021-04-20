@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Course Schedule
-published: true
+published: false
 date: 2018-05-01T00:00:00.000Z
 ---
 
