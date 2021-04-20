@@ -14,7 +14,7 @@ published: true
 - James Munroe
 - jmunroe@mun.ca
 
-- Meeting times: Mondays and Thursdays, 1 pm - 4 pm
+- Meeting times: Mondays and Thursdays, 1 pm - 4 pm (meeting remotely)
 * Course website: https://cmsc6950.github.io
 
 ### Teaching Assistant
