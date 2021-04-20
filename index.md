@@ -9,34 +9,77 @@ published: true
   Memorial University of Newfoundland  
   Summer 2021
 
-## Lectures
-  Tuesdays and Thursdays 10:00 am --1:00 pm (Remote Teaching) (First Lecture June 30, 2020)
+# Course Outline
 
-## Instructor:
 
-* James Munroe
+#### Memorial University of Newfoundland
+#### CMSC6950  Computer Based Research Tools and Applications
+#### Spring 2021
 
-## Teaching Assistant:
+### Instructor:
+- James Munroe
+- jmunroe@mun.ca
 
-* TBD
+- Meeting times: Mondays and Thursdays, 1 pm - 4 pm
+* Course website: https://cmsc6950.github.io
 
-## Course Description:
+### Teaching Assistant
+- TBD
 
-  Using computers in research computing requires a diverse set of skills and tools for the
-  research to be effective and efficient. The goal of this practical six-week intersession course is
-  to increase your level of proficiency with using computers to do research in science.
-  Computing in research often gets applied with one of two approaches. Some researchers
-  develop new code and have to consider the technical details of numerical analysis and software
-  engineering. Other researchers use proven applications that provide a predefined user
-  interface and have established work flows. This course sits at the interface between those
-  approaches and will cover how to build new programs from other software and libraries. It will
-  also develop automation of research work flows for passing data between different software
-  applications.
+### Description:
 
-## Course Outline
+Using computers in research computing requires a diverse set of skills and tools for the research to be effective and efficient.  The goal of this practical six-week intersession course is to increase your level of proficiency with using computers to do research in science.  
 
-** Being revised for 2020**
+Computing in research often gets applied with one of two approaches.  Some researchers develop new code and have to consider the technical details of numerical analysis and software engineering.  Other researchers use proven applications that provide a predefined user interface and have established work flows.  This course sits at the interface between those approaches and will cover how to build new programs from other software and libraries.  It will also develop automation of research work flows for passing data between different software applications.
 
-[Course Outline]({{ site.baseurl }}{% post_url 2018-05-01-Outline %})
+Textbook:  Anthony Scopatz, Kathryn D. Huff.  Effective Computation in Physics: Field Guide to Research with Python. O’Reilly Media, 2015.
+
+### Evaluation:
+
+- Participation: 10%
+- Assignments:   50%
+- Project:       40%
+
+### Topics:
+
+1: Command line and scripting
+- The Bourne Shell (bash)
+- Bash scripting
+- Regular expressions
+- Editors and IDEs
+
+2: Python
+- Basic Python
+- Jupyter notebooks
+- numpy, scipy, matplotlib
+
+3: Software development
+- Revision control (git and GitHub)
+- Building software (make)
+- Unit testing
+- Test-driven development
+- Debugging, profiling and code optimization
+- Code documentation
+
+4: Working with data and visualization
+- Data structures
+- Files and formats
+- Databases
+
+5:  Other topics
+- Other 2D and 3D visualization tools
+- Animations and movies 
+- High performance computing
+
+### Memorial University Policies:
+
+Accommodations for Students with Disabilities http://www.mun.ca/blundon/accommodations/
+
+Student Code of Conduct http://www.mun.ca/student/conduct/
+
+Exemptions From Parts of the Evaluation
+http://www.mun.ca/regoff/calendar/sectionNo=REGS-0601#REGS-1949
+
+Academic Misconduct http://www.mun.ca/regoff/calendar/sectionNo=REGS-0748
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cmsc6950/cmsc6950.github.io/master?filepath=lectures)
