@@ -1,13 +1,13 @@
 ---
 layout: post
-date: 2020-05-22 11:40:50 -02:30
+date: 2021-04-20 11:40:50 -02:30
 title: "Welcome to CMSC6950"
 published: true
 ---
 
 ## Computer Based Research Tools and Applications
   Memorial University of Newfoundland  
-  Summer 2020
+  Summer 2021
 
 ## Lectures
   Tuesdays and Thursdays 10:00 am --1:00 pm (Remote Teaching) (First Lecture June 30, 2020)
